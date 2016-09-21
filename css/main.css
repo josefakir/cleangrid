@@ -1,0 +1,61 @@
+html,body{
+	height: 100%;
+	background: #eeeeee
+}
+#estante1{
+	left: 50%;
+	position: absolute;
+}
+#imagenestante1{
+	height: 100%;
+	position: absolute;	
+}
+#botonpadecimiento1{
+	width: 19%;
+    height: 9%;
+    position: absolute;
+    z-index: 2;
+    left: 10%;
+    top: 45%;
+    background: red;
+}
+#botonpadecimiento2{
+	width: 19%;
+    height: 9%;
+    position: absolute;
+    z-index: 2;
+    left: 34%;
+    top: 45%;
+    background: blue;
+}
+.padecimiento{
+	background: #fdfdfd;
+}
+.footerpadecimiento{
+	height: 4%;
+	background: #e11d39;
+	position: absolute;;
+	bottom: 0;
+	width: 100%
+}
+.footerpadecimiento2{
+	width: 30%;
+	height: 100%;
+	background: #f79621;
+	float: right;
+}
+#contenidopadecimiento{width: 96%; height: 93%; padding:2%;}
+.diapositiva{
+	width: 100%;
+}
+.item img{width: 100%}
+@media only screen and (min-width: 961px) and (max-width: 1200px) {
+}
+@media only screen and (min-width: 769px) and (max-width: 960px) {
+}
+@media only screen and (min-width: 421px) and (max-width: 768px) {
+}
+@media only screen and (min-width: 321px) and (max-width: 420px) {
+}
+@media only screen and (max-width: 320px) {
+}
